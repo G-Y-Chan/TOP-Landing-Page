@@ -1,0 +1,41 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1F2937;
+}
+
+.header div {
+    flex: 1 1 auto;
+    flex-grow: 1;
+    color: #E5E7EB;
+}
+
+.logo {
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.logo img{
+    height: 100px;
+    width: 100px;
+}
+
+.left-links {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.left-links ul{
+    list-style-type: none;
+    color: #E5E7EB;
+    display: flex;
+    margin: 0;
+    padding: 16px;
+    gap: 16px;
+}
+
+a, a:link, a:visited {
+    color: #E5E7EB;
+    text-decoration: none;
+}
