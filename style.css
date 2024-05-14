@@ -35,6 +35,31 @@
     gap: 16px;
 }
 
+.description {
+    display: flex;
+    background-color: #1F2937;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    justify-content: space-between;
+}
+
+.Information {
+    flex: 1 1 auto;
+    color: #E5E7EB;
+}
+
+.Information button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border-radius: 4px;
+}
+
+.Description-image img{
+    max-width: 300px;
+}
+
 a, a:link, a:visited {
     color: #E5E7EB;
     text-decoration: none;
