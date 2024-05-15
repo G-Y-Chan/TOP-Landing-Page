@@ -105,6 +105,23 @@
     color: #1F2937;
 }
 
+.outer-contact {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.Contact {
+    border-radius: 12px;
+    background-color: #3882F6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    color: #F9FAF8;
+}
+
 a, a:link, a:visited {
     color: #E5E7EB;
     text-decoration: none;
