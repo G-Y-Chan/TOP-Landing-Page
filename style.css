@@ -122,6 +122,16 @@
     color: #F9FAF8;
 }
 
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
 a, a:link, a:visited {
     color: #E5E7EB;
     text-decoration: none;
