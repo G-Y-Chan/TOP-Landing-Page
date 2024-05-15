@@ -91,6 +91,20 @@
     height: 100px;
 }
 
+.Quote {
+    background-color: #E5E7EB;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.Quote p {
+    font-size: 36px;
+    font-weight: light italic;
+    color: #1F2937;
+}
+
 a, a:link, a:visited {
     color: #E5E7EB;
     text-decoration: none;
