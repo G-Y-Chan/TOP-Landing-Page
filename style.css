@@ -62,6 +62,35 @@
     max-width: 300px;
 }
 
+.edu-title {
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1F2937;
+}
+
+.Education {
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.Education div{
+    text-align: center;
+}
+
+.Schools {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.sch-col img {
+    width: 100px;
+    height: 100px;
+}
+
 a, a:link, a:visited {
     color: #E5E7EB;
     text-decoration: none;
